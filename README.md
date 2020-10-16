@@ -35,13 +35,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/FEK9uZP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My app was running fine showing all newly created tweets and then the following error appears. 
+
+11717-11717/com.codepath.apps.restclienttemplate E/TimelineActivity: onFailure! {"errors":[{"message":"Rate limit exceeded","code":88}]}
 
 ## Open-source libraries used
 
@@ -106,7 +108,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My app worked fine showing all the new tweets and then I got this error message that I can't get around to solving. 
+
 
 ## Open-source libraries used
 
